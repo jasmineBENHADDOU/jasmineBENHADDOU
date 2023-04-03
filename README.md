@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my Github profil !
+
+I'm an embedded system engineering student currently in Master 1 at university Paul Sabatier. I'm a passionate learner who's always willing to learn and work across technologies.
+
+📫 How to reach me: https://www.linkedin.com/in/yasmine-benhaddou-b2a21a208/
+
 <!--
 **jasmineBENHADDOU/jasmineBENHADDOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
